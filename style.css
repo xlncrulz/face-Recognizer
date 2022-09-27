@@ -1,0 +1,22 @@
+body
+{
+ color:rgb(101, 175, 255);
+ background-image: linear-gradient(rgb(255, 0, 0),rgb(251, 255, 0),rgb(0, 64, 255),rgb(255, 104, 235));   
+}
+
+.heading
+{
+    width:83%;
+    font-size:25px;
+font-family: Georgia;
+}
+#camera
+{
+    border: 2px dashed black;
+    width: 360px;
+    height: 300px;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+    color:rgb(208, 0, 255);
+}
